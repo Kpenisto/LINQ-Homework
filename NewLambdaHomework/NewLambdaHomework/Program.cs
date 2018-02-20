@@ -22,6 +22,8 @@ namespace NewLambdaHomework
             "of",
             "strings",
 
+            
+
 
         };
 
@@ -136,7 +138,8 @@ namespace NewLambdaHomework
             Console.ReadLine();
             //test
 
-
+            //testingonce
         }
+        
     }
 }
