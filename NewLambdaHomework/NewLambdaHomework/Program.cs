@@ -21,6 +21,8 @@ namespace NewLambdaHomework
             "list",
             "of",
             "strings",
+
+
         };
 
         #endregion
